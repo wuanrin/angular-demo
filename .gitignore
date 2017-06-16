@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/dist.aot
+/dist.webpack
+/dist.webpack.prod
+/aot
+npm-debug.log
