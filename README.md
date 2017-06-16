@@ -1,5 +1,5 @@
 # Angular编译运行
-先创建一个简单的项目。可以从 https://git.oschina.net/wuanrin/angular-simle.git 克隆。
+先创建一个简单的项目。可以从 https://github.com/wuanrin/angular-simple.git 克隆。
 
 
 ## 1. tsc + system.js 方式
